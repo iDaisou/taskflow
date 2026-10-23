@@ -1,6 +1,6 @@
 # TaskFlow
 
-Full-stack project management app built with React, Express, PostgreSQL, and Prisma.
+Full-stack test project management app built with React, Express, PostgreSQL, and Prisma.
 
 ## Stack
 
